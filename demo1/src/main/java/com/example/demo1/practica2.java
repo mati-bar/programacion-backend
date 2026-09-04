@@ -34,16 +34,17 @@ public class practica2 {
             double precio = Integer.parseInt(sc.nextLine());
             System.out.println("Ingrese porcentaje: ");
             double porcentaje = Integer.parseInt(sc.nextLine());
-            System.out.println("El recio con descuento es: " + calcularDescuento(precio, porcentaje) );
+            System.out.println("El Precio con descuento es: " + calcularDescuento(precio, porcentaje) );
 
 
 
-        //System.out.println("es mayor? "+ esMayordeEdad(18));
-        //System.out.println(calcularDescuento(1000 , 20));
-        //System.out.println(categoria(12));
-        //System.out.println(categoria(17));
-        //System.out.println(categoria(18));
+//        System.out.println("es mayor? "+ esMayorEdad(18));
+//        System.out.println(calcularDescuento(1000 , 20));
+//        System.out.println(categoria(12));
+//        System.out.println(categoria(17));
+//        System.out.println(categoria(18));
+
     }
 
-
 }
+
